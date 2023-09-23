@@ -44,16 +44,16 @@ For final examination and verification, we transferred a website app into a test
 ### Production Deployment: 
 When we were happy with the staging area, we moved the SPA to the live environment so that the general public could use it.
 ## Sharing of knowledge and documentation:
-For purposes of reference and upkeep, we chronicled the user manuals, codebase, and entire creation process.expertise Transfer: To preserve the viability of the endeavour, we made sure that team members shared their expertise.
+For purposes of reference and upkeep, we chronicled the user manuals, codebase, and entire creation process. Expertise Transfer: To preserve the viability of the endeavor, we made sure that team members shared their expertise.
 ## Project Completion:
 ### Evaluation: 
 Using the initial issue description and criteria for success, we evaluated the project's effectiveness.
 ### Lessons Learned: 
 To determine experiences learned and opportunities for growth, we performed a review.
-In conclusion, our technique used aspects of Agile and UCD to produce a customised strategy for facilitating the creation of a modestly sized individual project. Through the course of the project lifetime, this technique allowed us to solve the defined issue space in an efficient manner while being flexible to evolving needs.
+In conclusion, our technique used aspects of Agile and UCD to produce a customized strategy for facilitating the creation of a modestly sized individual project. Through the course of the project lifetime, this technique allowed us to solve the defined issue space in an efficient manner while being flexible to evolving needs.
 
 # Methods for User Evaluation
-We carried out a thorough user review of our online application to assure its efficacy and consumer-friendliness in enhancing the everyday lives of Solent University students. The techniques for collecting data have been thoughtfully selected in order to obtain insightful comments from a diverse user population. We describe the procedures employed below and explain why they were chosen:
+We carried out a thorough user review of our online application to ensure its efficacy and consumer-friendliness in enhancing the everyday lives of Solent University students. The techniques for collecting data have been thoughtfully selected in order to obtain insightful comments from a diverse user population. We describe the procedures employed below and explain why they were chosen:
 ## Surveys:
 ### Explanation of the method: 
 To get quantitative information about Solent University students' interactions with the online application, surveys were sent to a variety of them. We were able to efficiently collect structured input using this strategy.
@@ -61,26 +61,26 @@ To get quantitative information about Solent University students' interactions w
 Surveys provide quantitative information on user pleasure, usability, and particular pain spots. To provide a diverse representation of user perspectives, they were extensively disseminated.
 ## User interview
 ### Method Justification:
-A limited group of learners that had previously actively utilised the online programme participated in interviews with users. These deep discussions with participants served as a means of learning more about their goals, events, and recommendations for development.
+A limited group of learners that had previously actively utilized the online program participated in interviews with users. These deep discussions with participants served as a means of learning more about their goals, events, and recommendations for development.
 ### Benefits: 
 Through assessments, we were able to glean insightful commentary and comprehend the emotional components of user encounters. We could look more closely at individual tastes and needs.
 ## Usability evaluation
 ### Justification of the method: 
 Evaluation of usability entailed watching individuals as they used the website. This technique gave immediate input on usability problems, navigational difficulties, and opportunities for development.
 ### Benefits:
-Usability tests helped us identify areas that needed immediate enhancement by identifying particular usability barriers. It included specific examples of user behaviour and issues.
+Usability tests helped us identify areas that needed immediate enhancement by identifying particular usability barriers. It included specific examples of user behavior and issues.
 We made sure that the pupils at Solent University who were the focus of our user assessment methodologies represented a varied range of academic levels, experiences, and technical skills. Due to the customer base's variety, we were able to gather a variety of viewpoints and make sure the online application met an array of user requirements.
 
-In general, the methodologies used to evaluate the internet application's accessibility, efficiency, and client happiness were varied, mixing qualitative with quantitative methods. With the aid of this data collecting strategy, we were able to obtain insightful information and make incremental adjustments to the programme during the course of its creation.
+In general, the methodologies used to evaluate the internet application's accessibility, efficiency, and client happiness were varied, mixing qualitative with quantitative methods. With the aid of this data-collecting strategy, we were able to obtain insightful information and make incremental adjustments to the program during the course of its creation.
 
 # Conclusions/Results
 The single-page internet application (SPA), designed to meet the everyday demands of Solent University students, has resulted in an answer that has gone through thorough analysis and continuous enhancement. By focusing on particular problems and underrepresented areas, we aimed to improve every student's experience via the information-driven approach we used. We provide a thorough assessment of our approach in this part according to the gathered information and self-reflective experiences.
 
-User input should be continuously monitored and analysed to spot changing demands. Integration of extra resources and instruments to improve the learning environment. A larger variety of pupils should be added to the population of users to guarantee inclusion. The programme needs regular upkeep and upgrades to stay current with emerging trends and technology.
+User input should be continuously monitored and analyzed to spot changing demands. Integration of extra resources and instruments to improve the learning environment. A larger variety of pupils should be added to the population of users to guarantee inclusion. The program needs regular upkeep and upgrades to stay current with emerging trends and technology.
 
-In the end, the creation and assessment of our SPA mark an important step in improving the daily experiences of Solent University students. We have developed a focused-on users’ solution that solves significant issues by using an approach based on data. Positive comments and enhancements made during the project show our dedication to provide the pupils with beneficial assistance.
+In the end, the creation and assessment of our SPA mark an important step in improving the daily experiences of Solent University students. We have developed a focused-on users solution that solves significant issues by using an approach based on data. Positive comments and enhancements made during the project show our dedication to providing the pupils with beneficial assistance.
 
-Our final web application is hosted on server is looking like
+Our final web application is hosted on server, is looking like
 ![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/32f07b05-0127-4a89-9406-ee8c01219f4b)
 ![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/16c2ef40-d856-4a09-9d17-bcb4c85437be)
 ![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/23b92114-4876-4cfd-8669-e3d57eb83b1b)
@@ -88,43 +88,61 @@ Our final web application is hosted on server is looking like
 ![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/0bee4b30-2cd6-4a78-ba0b-67e12c460946)
 
 # Appendices:
-Appendix A is used to provide set of user narratives, which describes the particular wants and objectives discovered in our study
+Appendix A is used to provide a set of user narratives, which describes the particular wants and objectives discovered in our study
 
 Appendix B – In this part iterations of every customer are outlined with the accompanying features that were created.
 
-In our approach we have made it certain that it was open and by using the agile principles and practises it was readily evident. 
+In our approach, we have made it certain that it was open and by using the agile principles and practices it was readily evident. 
 
 ## Appendix A: User Stories
-User Story 1: Login and Registration \n
-User wants to register as a student and log in with safety.\n
-Acceptance Standards:
+### User Story 1: Login and Registration
+
+The user wants to register as a student and log in with safety.
+
+### Acceptance Standards:
 Users who have a working password and email address can register.
+
 Users who have registered may log in.
-Second User Story: Dashboard Customisation
-I want a customised dashboard for students where I can view pertinent news and updates.
-Acceptance Standards:
+
+### Second User Story: Dashboard Customisation
+
+I want a customized dashboard for students where I can view pertinent news and updates.
+
+### Acceptance Standards:
 Upon logging in, users receive a personalised dashboard.
+
 Both recent news items and forthcoming events are shown on the dashboard.
-User Story 3
+
+### User Story 3
 I would like to read the most recent university announcements and information as a student.
-Acceptance Standards:
+
+### Acceptance Standards:
 A list of news stories is accessible to users.
+
 To find out more, readers may click on an article.
 
 ## Appendix B: Overview of Iterations
-Iteration 1: User Authentication and Signup
-Goals:
+### Iteration 1: User Authentication and Signup
+### Goals:
 Build the user signup feature.
+
 Establish a safe login mechanism.
-Outcomes:
+
+### Outcomes:
 Users who have a working email and password are able to register.
+
 Users who have registered may safely log in.
+
 Version 2: Customizable Dashboard
-Goals:
+
+### Goals:
 Create an overview that is unique to each user.
+
 Display future events or news items on the main screen.
-Outcomes:
-Upon logging in, users receive a personalised homepage.
+
+### Outcomes:
+Upon logging in, users receive a personalized homepage.
+
 Both recent news items and forthcoming events are shown on the control panel.
 
 
