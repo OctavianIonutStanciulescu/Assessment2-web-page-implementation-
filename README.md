@@ -5,7 +5,9 @@
 
 # Introduction
 Web apps are crucial for improving people's lives within the modern digital era since they cater to specific demands and make routine jobs easier. Our goal is to create an adaptive Single Page Web Application (SPA) for Solent University students that would assist them in their daily life in the context of this subject. The goal of this project is to determine areas wherever students might be underrepresented and to develop a model SPA which could effectively meet these requirements. It was data-driven.
+
 To improve the entire experience of Solent University students, we conceptualised, designed, and implemented a web-based application. We shall provide an outline of that process in this report. From determining the issue to solution execution, we will go over each stage of our endeavour thoroughly and emphasise the salient features of our SPA model.
+
 The initiative demonstrates our dedication to improving the quality of life for Solent University students via the use of modern technology with a customer-driven, data-driven strategy. The educational institution's digital environment will hopefully benefit from the inclusion of our model SPA, which will provide students with all of the resources and tools they require for a fruitful academic career.
 
 # Methodology
@@ -77,3 +79,52 @@ The single-page internet application (SPA), designed to meet the everyday demand
 User input should be continuously monitored and analysed to spot changing demands. Integration of extra resources and instruments to improve the learning environment. A larger variety of pupils should be added to the population of users to guarantee inclusion. The programme needs regular upkeep and upgrades to stay current with emerging trends and technology.
 
 In the end, the creation and assessment of our SPA mark an important step in improving the daily experiences of Solent University students. We have developed a focused-on users’ solution that solves significant issues by using an approach based on data. Positive comments and enhancements made during the project show our dedication to provide the pupils with beneficial assistance.
+
+Our final web application is hosted on server is looking like
+![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/32f07b05-0127-4a89-9406-ee8c01219f4b)
+![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/16c2ef40-d856-4a09-9d17-bcb4c85437be)
+![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/23b92114-4876-4cfd-8669-e3d57eb83b1b)
+![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/37a2ea80-fde7-434e-a182-ac2e2ea6a0f4)
+![image](https://github.com/OctavianIonutStanciulescu/Assessment2-web-page-implementation-/assets/86408475/0bee4b30-2cd6-4a78-ba0b-67e12c460946)
+
+# Appendices:
+Appendix A is used to provide set of user narratives, which describes the particular wants and objectives discovered in our study
+Appendix B – In this part iterations of every customer are outlined with the accompanying features that were created.
+In our approach we have made it certain that it was open and by using the agile principles and practises it was readily evident. 
+## Appendix A: User Stories
+User Story 1: Login and Registration
+User wants to register as a student and log in with safety.
+Acceptance Standards:
+Users who have a working password and email address can register.
+Users who have registered may log in.
+Second User Story: Dashboard Customisation
+I want a customised dashboard for students where I can view pertinent news and updates.
+Acceptance Standards:
+Upon logging in, users receive a personalised dashboard.
+Both recent news items and forthcoming events are shown on the dashboard.
+User Story 3
+I would like to read the most recent university announcements and information as a student.
+Acceptance Standards:
+A list of news stories is accessible to users.
+To find out more, readers may click on an article.
+
+## Appendix B: Overview of Iterations
+Iteration 1: User Authentication and Signup
+Goals:
+Build the user signup feature.
+Establish a safe login mechanism.
+Outcomes:
+Users who have a working email and password are able to register.
+Users who have registered may safely log in.
+Version 2: Customizable Dashboard
+Goals:
+Create an overview that is unique to each user.
+Display future events or news items on the main screen.
+Outcomes:
+Upon logging in, users receive a personalised homepage.
+Both recent news items and forthcoming events are shown on the control panel.
+
+
+
+
+
