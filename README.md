@@ -89,11 +89,14 @@ Our final web application is hosted on server is looking like
 
 # Appendices:
 Appendix A is used to provide set of user narratives, which describes the particular wants and objectives discovered in our study
+
 Appendix B – In this part iterations of every customer are outlined with the accompanying features that were created.
+
 In our approach we have made it certain that it was open and by using the agile principles and practises it was readily evident. 
+
 ## Appendix A: User Stories
-User Story 1: Login and Registration
-User wants to register as a student and log in with safety.
+User Story 1: Login and Registration \n
+User wants to register as a student and log in with safety.\n
 Acceptance Standards:
 Users who have a working password and email address can register.
 Users who have registered may log in.
